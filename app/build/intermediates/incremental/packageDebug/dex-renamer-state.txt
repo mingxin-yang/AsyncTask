@@ -1,0 +1,7 @@
+#Tue Oct 25 15:39:56 CST 2016
+base.0=F\:\\Java\\Android\\AsyncTask\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9c7c5daf407f101f3add29e5880b41e965995b63
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=F\:\\Java\\Android\\AsyncTask\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_91fe892ad4bc4dbe06f9f723fbb7b6f2c8b1761e\\classes.dex
+base.1=F\:\\Java\\Android\\AsyncTask\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_91fe892ad4bc4dbe06f9f723fbb7b6f2c8b1761e
+file.0=F\:\\Java\\Android\\AsyncTask\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9c7c5daf407f101f3add29e5880b41e965995b63\\classes.dex

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\Java\Android\AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="F:\Java\Android\AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_157471d5a1130f0af86adab9c564c9782dde9fa7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Java\Android\AsyncTask\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="F:\Java\Android\AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_bf0cac2f67e4515691bdbe0b79de47576c28985b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Java\Android\AsyncTask\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b4da75c53ad7789574a8ec80ef295b7f1f719f44">
+        <dex dex="F:\Java\Android\AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9c7c5daf407f101f3add29e5880b41e965995b63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Java\Android\AsyncTask\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="F:\Java\Android\AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_8a395aee50b11614c0d11838434207a728f9ffc5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Java\Android\AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="F:\Java\Android\AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_5944d300b4612de5e73b3f8c586289be237284b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Java\Android\AsyncTask\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8a42bd812a521ad985617ccd84706d4c88bd152e">
+        <dex dex="F:\Java\Android\AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_91fe892ad4bc4dbe06f9f723fbb7b6f2c8b1761e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Java\Android\AsyncTask\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="F:\Java\Android\AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_7c94747502f7d103949bbc7b704127b83d8d6165\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android-sdk_r24.3.2-windows\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="F:\Java\Android\AsyncTask\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_21c5a7f39e86e8ae6e0ae34567d875c8747e61b3\classes.dex" />
+    </item>
+
+</items>
